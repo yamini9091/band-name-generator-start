@@ -10,6 +10,6 @@
 #   https://band-name-generator-end.appbrewery.repl.run/
 
 print("Welcome to band-name-generator")
-street=(input("What is the name of the city you grew up in ? "))
-pet=(input("what is the name of your pet ? "))
+street=(input("What is the name of the city you grew up in ?\n "))
+pet=(input("what is the name of your pet ?\n "))
 print("Your name of the Band could be "+ street +" "+ pet)
